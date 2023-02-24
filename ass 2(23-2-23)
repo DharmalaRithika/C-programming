@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int i,n1,n2;
+for(int i=n1;i<=n2;i++)
+{
+if(i=n1+5 && i=n1+4);
+continue;
+else if(i%2!=0)
+printf("%d\t",i);
+}
